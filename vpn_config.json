@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "notice": "Su VPN Keys Updated",
+  "servers": [
+    {
+      "id": "sg_1",
+      "name": "Singapore Server 01",
+      "country_code": "SG",
+      "config_type": "vmess",
+      "key": "vmess://YOUR_VMESS_KEY_HERE"
+    }
+  ]
+}
